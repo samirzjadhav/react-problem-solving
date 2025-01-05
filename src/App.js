@@ -5,6 +5,7 @@ import Problem3 from "./BeginnerProblem/Problem3";
 import Problem4 from "./BeginnerProblem/Problem4";
 import Problem5 from "./BeginnerProblem/Problem5";
 import Problem6 from "./BeginnerProblem/Problem6";
+import Problem7 from "./BeginnerProblem/Problem7";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       {/* <Problem3 /> */}
       {/* <Problem4 /> */}
       {/* <Problem5 /> */}
-      <Problem6 />
+      {/* <Problem6 /> */}
+      <Problem7 />
     </div>
   );
 }
