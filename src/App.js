@@ -8,6 +8,7 @@ import Problem6 from "./BeginnerProblem/Problem6";
 import Problem7 from "./BeginnerProblem/Problem7";
 import Problem8 from "./BeginnerProblem/Problem8";
 import Problem9 from "./BeginnerProblem/Problem9";
+import Problem10 from "./BeginnerProblem/Problem10";
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
       {/* <Problem6 /> */}
       {/* <Problem7 /> */}
       {/* <Problem8 /> */}
-      <Problem9 />
+      {/* <Problem9 /> */}
+      <Problem10 />
     </div>
   );
 }
